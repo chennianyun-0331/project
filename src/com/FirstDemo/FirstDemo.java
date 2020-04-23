@@ -5,13 +5,12 @@ import java.util.List;
 
 /**
  * 数组
- *
  * @Author: cny
  * @Date: 2020/4/13 11:10
  */
 public class FirstDemo {
     public static void main(String[] args) {
-        //声明
+        /*//声明
         int[] arr;
         int[] arr1;
         //创建+赋值
@@ -36,13 +35,13 @@ public class FirstDemo {
         list(arr4);
         list(arr5);
         String s1 = Arrays.toString(arr3);
-        System.out.println(s1);
+        System.out.println(s1);*/
     }
 
-    private static void list(int[] arr) {
+    /*private static void list(int[] arr) {
         for (int i = 0; i < arr.length ; i++) {
             System.out.print(arr[i]+" ");
         }
         System.out.println();
-    }
+    }*/
 }

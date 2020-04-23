@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="626803ee-0890-4a4a-89ba-b34d2c1a845a" name="Default Changelist" comment="提交测试">
+      <change beforePath="$PROJECT_DIR$/../project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cny" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\东软\后端学习\demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aT6dm4S5P46RBVtiiSIiuuW5vh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Test4" />
+      <recent name="Tset1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\东软\后端学习\demo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SecondDemo">
+    <configuration name="Ex01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="commomClass.Ex01" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="commomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4.Ex02" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4.Ex03" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4.Ex04" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FirstDemo.SecondDemo" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FirstDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecondDemo" />
+        <item itemvalue="Application.Ex01 (1)" />
+        <item itemvalue="Application.Ex03" />
+        <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.Ex04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="626803ee-0890-4a4a-89ba-b34d2c1a845a" name="Default Changelist" comment="" />
+      <created>1586747325505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586747325505</updated>
+      <workItem from="1586747328791" duration="10931000" />
+      <workItem from="1586825472848" duration="49977000" />
+      <workItem from="1586998822028" duration="14553000" />
+      <workItem from="1587085088544" duration="13913000" />
+      <workItem from="1587344231183" duration="12263000" />
+      <workItem from="1587603570665" duration="895000" />
+      <workItem from="1587610122523" duration="9844000" />
+      <workItem from="1587623267258" duration="466000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1587613947390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587613947391</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交测试">
+      <created>1587614814798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587614814798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交测试">
+      <created>1587616136873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587616136873</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交测试">
+      <created>1587622020537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587622020537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交测试">
+      <created>1587622563375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587622563375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/out/production/demo" />
+    </ignored-roots>
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1587104514403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="308" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587104514403" />
+    <state x="1002" y="470" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587623319389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1002" y="470" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587623319389" />
+    <state x="1211" y="427" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586877043973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1211" y="427" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586877043973" />
+    <state x="124" y="203" key="CommitChangelistDialog2" timestamp="1587622972973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="124" y="203" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587622972973" />
+    <state x="322" y="279" key="FileChooserDialogImpl" timestamp="1587623049980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="322" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587623049980" />
+    <state width="947" height="227" key="GridCell.Tab.0.bottom" timestamp="1587364582286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="947" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587364582286" />
+    <state width="947" height="227" key="GridCell.Tab.0.center" timestamp="1587364582286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="947" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587364582286" />
+    <state width="947" height="227" key="GridCell.Tab.0.left" timestamp="1587364582286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="947" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587364582286" />
+    <state width="947" height="227" key="GridCell.Tab.0.right" timestamp="1587364582286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="947" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587364582286" />
+    <state x="140" y="222" key="NewModule_or_Project.wizard" timestamp="1587614618279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="140" y="222" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587614618279" />
+    <state x="357" y="318" key="RollbackChangesDialog" timestamp="1587622178209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="357" y="318" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587622178209" />
+    <state x="283" y="166" width="998" height="718" key="SettingsEditor" timestamp="1587623557297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="283" y="166" width="998" height="718" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587623557297" />
+    <state x="143" y="232" key="Vcs.Push.Dialog.v2" timestamp="1587622634263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="232" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587622634263" />
+    <state x="68" y="180" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586749387503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="68" y="180" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586749387503" />
+    <state x="314" y="302" key="git4idea.merge.GitPullDialog" timestamp="1587620372221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="302" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587620372221" />
+    <state x="157" y="134" key="new project wizard" timestamp="1587623555516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="157" y="134" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587623555516" />
+    <state x="186" y="258" key="run.anything.popup" timestamp="1586937647650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="258" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586937647650" />
+    <state x="158" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1586919929715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="158" y="272" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586919929715" />
+  </component>
+</project>
